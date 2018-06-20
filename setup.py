@@ -11,6 +11,7 @@ setuptools.setup(
     description="Fast Radial Symmetry Transform",
     long_description=long_description,
     long_description_content_type="text/markdown",
+    keywords=['image processing','radial transform'],
     url="https://github.com/rohern/frst_python",
     packages=setuptools.find_packages(),
     classifiers=(
